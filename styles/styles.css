@@ -40,6 +40,14 @@ input, label, textarea {
     margin-top: .3em;
 }
 
+.maintxt {position: relative;}
+
+.maintxt > img, .overlay-text {position: absolute;}
+
 .mt {
     margin-top: 1em;
+}
+
+.pink {
+    background-color: pink;
 }
